@@ -17,3 +17,16 @@ console.log("aaaaaaaaaaaaa");
     console.log(data.toString());
 })*/
 console.log("bbbbbbbbbbbb");
+
+/* function f(params) {
+    const {optionA = true, optionB = true} = params;
+    console.log(optionA);
+    console.log(optionB);
+
+}
+console.log(f()); 
+*/
+
+const a = null;
+console.log(a.b);
+
